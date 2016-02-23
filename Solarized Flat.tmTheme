@@ -41,6 +41,15 @@
 				<!-- <key>findHighlightForeground</key>
 				<string>#fdf6e3</string> -->
 
+				<key>guide</key>
+				<string>#073642</string>
+
+				<key>activeGuide</key>
+				<string>#eee8d5</string>
+
+				<key>stackGuide</key>
+				<string>#073642</string>
+
 			</dict>
 		</dict>
 

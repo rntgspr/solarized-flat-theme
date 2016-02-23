@@ -358,6 +358,19 @@
         "settings": ["bold_folder_labels"],
         "font.bold": false
     },
+    {
+        "class": "icon_file_type",
+        "content_margin": [0, 0]
+    },
+    {
+        "class": "icon_folder",
+        "content_margin": [0, 0]
+    },
+    {
+        "class": "icon_folder_loading",
+        "content_margin": [0,0]
+    },
+
     // Sidebar entry selected
     {
         "class": "sidebar_label",
