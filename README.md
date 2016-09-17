@@ -28,7 +28,7 @@ You can locate your Sublime Text `Packages` directory by using the menu item `Pr
 
 While inside the `Packages` directory, clone the theme repository using the command below:
 
-    git clone https://github.com/circlecrystal/solarized-flat-theme "Theme - Solarized Flat"
+    git clone git@github.com:rntgspr/solarized-flat-theme.git "Theme - Solarized Flat"
 
 
 ## Activating the theme
